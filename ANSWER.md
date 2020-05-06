@@ -77,3 +77,4 @@ Une application Web Serverless peut évoluer jusqu'à arrêter son activité, pu
 
 # 15.
 Comment s'appelle la plus petite unité de compute déployable en Serverless ?
+Coompute est une fonction.
